@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.db
+*.db-wal
+*.db-shm
+.expo/
+# IP-ul difera la fiecare student; setup.bat il genereaza
+mobile/src/config.ts
